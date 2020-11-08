@@ -1,1 +1,1 @@
-# Navbar with side drawer
+# Minimal Navbar with side drawer
