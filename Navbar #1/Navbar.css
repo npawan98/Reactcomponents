@@ -1,0 +1,16 @@
+.navbar {
+    margin-right: 20px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar__hamburger{
+    color: black;
+}
+.about{
+    align-items: center;
+}
+.listgrp{
+    margin-top: 20px;
+}
